@@ -1,0 +1,15 @@
+# Ignorar ambientes virtuais
+venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar token.py (arquivo com o token do bot, deve ser mantido privado)
+token.py
+
+# Ignorar arquivos de configuração do IDE (ex: Visual Studio Code)
+.vscode/
+
+# Ignorar arquivos de logs
+*.log
